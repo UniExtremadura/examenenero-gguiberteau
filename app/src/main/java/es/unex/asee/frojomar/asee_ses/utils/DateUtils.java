@@ -4,7 +4,7 @@ package es.unex.asee.frojomar.asee_ses.utils;
 // Simulación de la implementación del caso de uso 18 - Rol: Arquitecto Software
 // Simulación de la implementación del caso de uso 18 - Rol: Desarrollador Senior
 // Simulación de la implementación del caso de uso 18 - Rol: Desarrollador Senior
-
+// Simulación de la implementación del caso de uso 18 - Rol: Desarrollador Junior
 
 //import android.util.Log;
 
