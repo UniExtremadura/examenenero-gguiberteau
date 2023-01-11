@@ -5,6 +5,7 @@ package es.unex.asee.frojomar.asee_ses.utils;
 // Comentarios del EJERCICIO 3 del examen
 // Simulación de la implementación del caso de uso 21 - Rol: Arquitecto Software
 // Simulación de la implementación del caso de uso 21 - Rol: Desarrollador Senior
+// Simulación de la implementación del caso de uso 21 - Rol: Desarrollador Senior
 
 import java.sql.Time;
 import java.text.DateFormat;
