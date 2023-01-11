@@ -6,6 +6,7 @@ package es.unex.asee.frojomar.asee_ses.utils;
 // Simulación de la implementación del caso de uso 21 - Rol: Arquitecto Software
 // Simulación de la implementación del caso de uso 21 - Rol: Desarrollador Senior
 // Simulación de la implementación del caso de uso 21 - Rol: Desarrollador Senior
+// Simulación de la implementación del caso de uso 21 - Rol: Desarrollador Junior
 
 import java.sql.Time;
 import java.text.DateFormat;
